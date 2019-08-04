@@ -50,3 +50,5 @@ Lessons implemented so far:
     X 22. Hi wait
 
     X 23. The while loop
+
+Help would be much appreceiated!
